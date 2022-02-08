@@ -68,6 +68,9 @@ export const Button = styled.button`
   border: none;
   border-radius: 50px;
   margin-top: 20px;
+  &:hover {
+    background: ${(props) => (props.primary ? "#fabb4f" : "#fabb4f")};
+  }
 `;
 
 export const SectionImage1 = styled.div`
