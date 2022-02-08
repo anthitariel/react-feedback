@@ -57,6 +57,10 @@ export const InputItems = styled.input.attrs((props) => ({
   border-radius: 10px;
   padding-left: 20px;
   margin: 4px;
+  &:hover,
+  &:focus {
+    background-color: #e9e8e8;
+  }
 `;
 
 export const Button = styled.button`
