@@ -15,7 +15,7 @@ export const Columns = styled.div`
 
 export const InputContainer = styled.div`
   margin-left: 150px;
-  margin-top: 30px;
+  margin-top: 60px;
   margin-bottom: 170px;
   display: flex;
   flex-direction: column;
