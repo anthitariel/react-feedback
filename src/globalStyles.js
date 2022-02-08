@@ -18,7 +18,6 @@ body {
 
 export const Container = styled.div`
   width: 100%;
-  height: auto;
 `;
 
 export default GlobalStyle;
