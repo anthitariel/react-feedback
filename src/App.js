@@ -10,8 +10,8 @@ export default function App() {
         <GlobalStyle />
         <Navbar />
         <FeedbackSection />
-        <FooterSection />
       </Container>
+      <FooterSection />
     </BrowserRouter>
   );
 }
